@@ -1,2 +1,2 @@
-# PrepCourse-Henryy
-este es un repositorio de prueba del modulo 2
+como crear un repositorio y clonarlos desde mi github a mi computadora
+
